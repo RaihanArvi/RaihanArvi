@@ -8,8 +8,7 @@
 Hi there 👋
 I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
 
-### 🖥️ Check out My Personal Projects!
----
+## 🖥️ Check out My Personal Projects!
 #### ✨ Deep Learning Projects
 - [SocialCam: Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 ## ✨ 
