@@ -1,17 +1,14 @@
-
-
 [![General Badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https:www.raihanarvi.com)
 [![Medium Badge]](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raihanarvi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raihan-arvi/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan.arvi/)
 
-### Hi there 👋 Welcome to Ray's Profile
----
+Hi there 👋
 I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
 
 ### 🖥️ Check out My Personal Projects!
 ---
-
+## ✨ Deep Learning Projects
 
 
 
