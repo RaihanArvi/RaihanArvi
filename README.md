@@ -6,6 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan.arvi/)
 
 ### Hi there 👋 Welcome to Ray's Profile
+-----
+
 I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
 
 
