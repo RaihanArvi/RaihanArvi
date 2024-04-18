@@ -10,7 +10,7 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 
 ### 🖥️ Check out My Personal Projects!
 ---
-## ✨ Deep Learning Projects
+#### ✨ Deep Learning Projects
 - [SocialCam: Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 ## ✨ 
 
