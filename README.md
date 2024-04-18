@@ -1,4 +1,4 @@
-[![General Badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https:www.raihanarvi.com)
+[![General Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FInstagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)(https:www.raihanarvi.com)
 [![Medium Badge]](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raihanarvi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raihan-arvi/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan.arvi/)
@@ -9,6 +9,8 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 ### 🖥️ Check out My Personal Projects!
 ---
 ## ✨ Deep Learning Projects
+
+## ✨ 
 
 
 
