@@ -1,7 +1,9 @@
-[![General Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FInstagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)(https:www.raihanarvi.com)
-[![Medium Badge]](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raihanarvi)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/raihan-arvi/)
+[![General Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raihanarvi.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-arvi/)
+[![Medium Badge]([https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))](https://medium.com/@raihanarvi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan.arvi/)
+
+<!link to badge icons https://dev.to/envoy_/150-badges-for-github-pnk>
 
 Hi there 👋
 I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
