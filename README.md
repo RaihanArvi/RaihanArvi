@@ -18,12 +18,15 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 ![Markdown](https://img.shields.io/badge/Markdown-616161?style=for-the-badge&logo=markdown&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-## 🖥️ Check out My Personal Projects!
+## 🖥️ Check out My Projects!
 #### ✨ Personal Projects
 - [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 - [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 - [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
+
+#### ✨ Collaboration Project
+- [GRASP: UBC Bionics Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
 
 ## 📩 Contact
 Here are some ways to contact me:
