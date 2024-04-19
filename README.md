@@ -6,8 +6,8 @@ Check out my social medias:
 <!-- link to badge icons https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://simpleicons.org/ -->
 
-Hi there 👋
-I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
+Hi there, 👋
+I am Raihan, a Mathematics undergraduate student @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
 
 ##### Skills:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
