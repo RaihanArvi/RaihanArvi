@@ -21,6 +21,8 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 ## 🖥️ Check out My Personal Projects!
 #### ✨ Deep Learning Projects
 - [SocialCam: Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
+- [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
+- 
 
 <!--
 **RaihanArvi/RaihanArvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
