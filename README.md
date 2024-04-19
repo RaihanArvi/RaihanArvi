@@ -20,7 +20,7 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 
 ## 🖥️ Check out My Personal Projects!
 #### ✨ Personal Projects
-- [SocialCam: Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
+- [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 - [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 - [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
