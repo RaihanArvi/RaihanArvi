@@ -28,6 +28,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 - [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
 - MaskAI: Haar Cascade Classifier and CNN-based Mask Usage Detector in Context of COVID-19
+- [LaTeX Writing Sample Project](https://github.com/RaihanArvi/LaTeX_Sample)
 
 #### ✨ Collaboration Project
 - [GRASP: UBC Bionics Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
