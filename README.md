@@ -24,6 +24,12 @@ I am Raihan, Mathematics Undergraduate @ The University of British Columbia. I a
 - [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 
+## 📩 Contact
+Here are some ways to contact me:
+- Directly through my [personal website.](https://raihanarvi.com)
+- [LinkedIn.](https://www.linkedin.com/in/raihan-arvi/)
+- Send me an [email.](mailto:rhnarvi@student.ubc.ca)
+
 <!--
 **RaihanArvi/RaihanArvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
