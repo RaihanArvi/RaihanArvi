@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 Check out my social medias:
 <!-- badges -->
 [![General Badge](https://img.shields.io/badge/website-545454?style=for-the-badge&logo=About.me&logoColor=white)](https://raihanarvi.com)
