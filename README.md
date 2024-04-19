@@ -33,6 +33,9 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 #### ✨ Collaboration Project
 - [GRASP: UBC Bionics Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
 
+## 🖥️ Check out My Youtube Page
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ray_arvi)
+
 ## 📩 Contact
 Here are some ways to contact me:
 - Directly through my [personal website.](https://raihanarvi.com)
