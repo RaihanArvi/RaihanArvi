@@ -1,3 +1,4 @@
+Check out my social medias:
 <!-- badges -->
 [![General Badge](https://img.shields.io/badge/website-545454?style=for-the-badge&logo=About.me&logoColor=white)](https://raihanarvi.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-arvi/)
