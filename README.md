@@ -31,7 +31,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 - [LaTeX Writing Sample Project](https://github.com/RaihanArvi/LaTeX_Sample)
 
 #### ✨ Collaboration Project
-- [GRASP: UBC Bionics EMG and Computer Vision Controlled Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
+- [GRASP: UBC Bionics EMG and YOLOv8 Controlled Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
 
 ## 🖥️ Check out My Youtube Page
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ray_arvi)
