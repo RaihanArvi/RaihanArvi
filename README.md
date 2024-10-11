@@ -9,7 +9,7 @@ Check out my social medias:
 <!-- https://simpleicons.org/ -->
 
 Hi there, 👋
-I am Raihan, a Mathematics undergraduate student @ The University of British Columbia. I am interested in cryptography, machine learning, and data science. 
+I am Raihan, a Mathematics undergraduate student @ The University of British Columbia. I am interested in data analysis, machine learning, and statistics. 
 
 ##### Skills:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -22,25 +22,28 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 🖥️ Check out My Projects!
-#### ✨ Personal Projects
+#### ✨ Machine Learning & Quantitative Data Analysis
 - [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
-- [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
-- [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
-- [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
+- [Predicting The Success of Speed Dating by Common Individual Traits (Collaborative Project)](https://github.com/MunnChai/dsci-100-group-project).
 - MaskAI: Haar Cascade Classifier and CNN-based Mask Usage Detector in Context of COVID-19
 - [LaTeX Writing Sample Project](https://github.com/RaihanArvi/LaTeX_Sample)
 
 #### ✨ Collaboration Project
 - [GRASP: UBC Bionics EMG and YOLOv8 Controlled Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
 
-## 🖥️ Check out My Youtube Page
+#### ✨ Other Personal Projects
+- [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
+- [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
+- [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
+
+## 🖥️ Check out My Youtube Page (In-progress)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ray_arvi)
 
 ## 📩 Contact
 Here are some ways to contact me:
+- Send me an [email.](mailto:rhnarvi@student.ubc.ca)
 - Directly through my [personal website.](https://raihanarvi.com)
 - Check out my [LinkedIn.](https://www.linkedin.com/in/raihan-arvi/)
-- Send me an [email.](mailto:rhnarvi@student.ubc.ca)
 
 <!--
 **RaihanArvi/RaihanArvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
