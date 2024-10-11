@@ -11,16 +11,6 @@ Check out my social medias:
 Hi there, 👋
 I am Raihan, a Mathematics undergraduate student @ The University of British Columbia. I am interested in data analysis, machine learning, and statistics. 
 
-##### Skills:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-616161?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-616161?style=for-the-badge&logo=markdown&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
 ## 🖥️ Check out My Projects!
 #### ✨ Machine Learning & Quantitative Data Analysis
 - [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
@@ -35,6 +25,16 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 - [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 - [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
+
+##### Skills:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-616161?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-616161?style=for-the-badge&logo=markdown&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 🖥️ Check out My Youtube Page (In-progress)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ray_arvi)
