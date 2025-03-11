@@ -39,7 +39,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 🖼️🎨✨ Check out My Visual Design Portfolio Page
-![Portfolio Page](https://raihanarvi.com/portfolio/media-portfolio/)
+[Portfolio Page](https://raihanarvi.com/portfolio/media-portfolio/)
 
 ## 🖥️ Check out My Youtube Page (In-progress)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ray_arvi)
