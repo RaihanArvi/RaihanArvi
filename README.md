@@ -15,6 +15,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 #### ✨ Machine Learning & Quantitative Data Analysis
 - [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 - [Predicting The Success of Speed Dating by Common Individual Traits](https://github.com/MunnChai/dsci-100-group-project).
+- [Predicting New York AirBnB Listings Reviews Per Month](https://github.com/RaihanArvi/330_hw5)
 - MaskAI: Haar Cascade Classifier and CNN-based Mask Usage Detector in Context of COVID-19
 - [LaTeX Writing Sample Project](https://github.com/RaihanArvi/LaTeX_Sample)
 
