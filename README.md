@@ -24,7 +24,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 - [NERV: Brain-Computer Interface for Controlling Computers based on 2-Class Motor Imagery](https://github.com/BEARUBC/nerv)
 
 #### ✨ Other Personal Projects
-- [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
+- [WiseStock: Stock Portfolio Wealth Management and Analyzer (Java OOP)](https://github.com/RaihanArvi/WiseStock)
 - [Batch Windows Installer: Batch Windows Program Installer Automation](https://github.com/RaihanArvi/batch-win-installer)
 - [Agrocast: IoT Smart Automatic Irrigation Based on OpenWeatherMap Data](https://github.com/RaihanArvi/Agrocast)
 
