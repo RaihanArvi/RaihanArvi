@@ -20,6 +20,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 
 #### ✨ UBC Bionics
 - [GRASP: UBC Bionics EMG and YOLOv8 Controlled Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
+- [NERV: Brain-Computer Interface for Controlling Computers based on 2-Class Motor Imagery](https://github.com/BEARUBC/nerv)
 
 #### ✨ Other Personal Projects
 - [WiseStock: Stock Portfolio Wealth Management and Analyzer](https://github.com/RaihanArvi/WiseStock)
