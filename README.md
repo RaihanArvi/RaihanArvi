@@ -14,6 +14,7 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 ## 🖥️ Check out My Projects!
 #### ✨ Machine Learning & Quantitative Data Analysis
 - [LLM-based Automatic Papers Data Extractor for Systematic Review](https://github.com/RaihanArvi/LLM_Papers_Data_Extractor)
+- [LLM-based Risk-of-Bias Assessment for Economics Systematic Review](https://github.com/RaihanArvi/LLM_RoB_Assessment)
 - [SocialCam: Computer Vision Social Distancing Detector using YOLOv4](https://github.com/RaihanArvi/SocialCam)
 - [Predicting The Success of Speed Dating by Common Individual Traits](https://github.com/MunnChai/dsci-100-group-project).
 - [Predicting New York AirBnB Listings Reviews Per Month](https://github.com/RaihanArvi/330_hw5)
