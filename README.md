@@ -21,6 +21,9 @@ I am Raihan, a Mathematics undergraduate student @ The University of British Col
 - MaskAI: Haar Cascade Classifier and CNN-based Mask Usage Detector in Context of COVID-19
 - [LaTeX Writing Sample Project](https://github.com/RaihanArvi/LaTeX_Sample)
 
+#### ✨ Finance Research
+
+
 #### ✨ UBC Bionics
 - [GRASP: UBC Bionics EMG and YOLOv8 Controlled Prosthetic Arm](https://github.com/BEARUBC/grasp-py)
 - [NERV: Brain-Computer Interface for Controlling Computers based on 2-Class Motor Imagery](https://github.com/BEARUBC/nerv)
